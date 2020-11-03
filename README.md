@@ -1,2 +1,2 @@
 # TestRepository
-Test fir creation of repository
+Test for creation of repository
